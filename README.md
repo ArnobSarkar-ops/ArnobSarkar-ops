@@ -1,5 +1,5 @@
 # 💫 About Me:
-Business Analyst focused on turning data, systems, and ambiguity into clear, actionable decisions.<br><br>I work at the intersection of business, data, and technology, translating business needs into functional solutions, optimizing enterprise processes, and using data and dashboards to drive decisions that actually move the needle.<br>	<br>📌 Featured Work<br>	• SQL-driven problem solving and analysis<br>	• Business-focused data insights<br>	• Dashboarding and reporting concepts<br>	• Case-study style breakdowns<br><br>Each repository is structured to explain the problem, the approach, and the outcome.
+Business Analyst focused on turning data, systems, and ambiguity into clear, actionable decisions.<br><br>I operate at the intersection of business, data, and technology, translating business requirements into functional solutions, streamlining enterprise processes, and leveraging insights and dashboards to drive decisions that actually move the needle.<br>	<br>📌 Featured Work<br>	• SQL-driven problem solving and analysis<br>	• Business-focused data insights<br>	• Dashboarding and reporting concepts<br>	• Case-study style breakdowns<br><br>Each repository is structured to explain the problem, the approach, and the outcome.
 
 
 ## 🌐 Socials:
